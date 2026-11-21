@@ -1,18 +1,17 @@
-
 [
     {
         "id": 1,
-        "name": "Rahul",
+        "name": "Haleemasadiya",
         "course": "Python"
     },
     {
         "id": 2,
-        "name": "Priya",
+        "name": "Akhila",
         "course": "Java"
     },
     {
         "id": 3,
-        "name": "Arun",
+        "name": "Imran",
         "course": "AWS"
     },
     {
@@ -21,4 +20,3 @@
         "course": "DevOps"
     }
 ]
-
