@@ -2,17 +2,23 @@
 [
     {
         "id": 1,
-        "name": "Haleemasadiya",
+        "name": "Rahul",
         "course": "Python"
     },
     {
         "id": 2,
-        "name": "Akhila",
+        "name": "Priya",
         "course": "Java"
     },
     {
         "id": 3,
-        "name": "Imran",
+        "name": "Arun",
         "course": "AWS"
+    },
+    {
+        "id": 4,
+        "name": "Haleema",
+        "course": "DevOps"
     }
 ]
+
