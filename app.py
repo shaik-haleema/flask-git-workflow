@@ -1,10 +1,9 @@
 
-<<<<<<< HEAD
+
 from flask import Flask, jsonify, render_template
-=======
 from flask import Flask, jsonify, render_template, request
 from db import collection
->>>>>>> master_2
+
 import json
 
 app = Flask(__name__)
